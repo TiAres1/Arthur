@@ -6,7 +6,7 @@ Arthur is an **advanced injection & script execution tool** designed to enhance 
 
 ## 📥 Installation
 
-1. **Download the latest version** from [Releases](https://github.com/yourrepo/releases).
+1. **Download the latest version** from [Releases](https://github.com/TiAres1/Arthur/releases/).
 2. **Extract the ZIP file** to a safe directory.
 3. **Run** `Arthur.exe`.
 
@@ -45,5 +45,5 @@ Arthur is an **advanced injection & script execution tool** designed to enhance 
 ⭐ **If you like this project, don't forget to give it a star!** ⭐
 
 
-[![Version](https://img.shields.io/badge/Version-0.3b1-green.svg)](https://github.com/yourrepo)  
+[![Version](https://img.shields.io/badge/Version-0.3b1-green.svg)](https://github.com/TiAres1)  
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)  
